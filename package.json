@@ -1,14 +1,14 @@
 {
-  "name": "{{name}}",
+  "name": "zzg888",
   "version": "1.0.0",
-  "description": "{{description}}",
+  "description": "1000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel index.html",
     "build": "del/f/s/q dist && parcel build index.html --public-url / --no-source-maps"
   },
-  "author": "{{author}}",
+  "author": "zzglo",
   "license": "MIT",
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.0.0",
